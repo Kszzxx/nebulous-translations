@@ -1426,10 +1426,10 @@ Se você não desejar fazer login, ainda poderá jogar no modo único jogador."
     <string-array name="button_modes">
         <item>"Esquerda"</item>
         <item>"Direita"</item>
-        <item>"Direita+Esquerda"</item>
-        <item>"Pilha Esquerda"</item>
-        <item>"Pilha Direita"</item>
-        <item>"Personalizado"</item>
+        <string name="Right+Left">"Direita+Esquerda"</string>
+        <string name="Left Stack">"Pilha Esquerda"</string>
+        <string name="Right Battery">"Pilha Direita"</string>
+        <string name="Personalized">"Personalizado"</string>
     </string-array>
 
     <string-array name="themes">
